@@ -1,0 +1,32 @@
+body {
+    font-family: Quatro, Ariel, Sans-serif;
+    background-color: whitesmoke;
+    }
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: #134370;
+    }
+
+table, tr, td {
+    border: 1px solid #eb6625;
+    border-collapse: collapse;
+    padding: 10px;
+    min-width: 100px;
+    margin:auto;
+}
+
+th {
+    border: 1px solid whitesmoke;
+    background-color: #eb6625;
+    color: white;
+}
+
+.code {
+    background-color: #eb6625;
+    color: white;
+}
